@@ -1,0 +1,35 @@
+1. Object Class and It's methods
+
+	Object: predefined class from java.lang package.
+			
+			-this class is super/base class to the all java predefined and user defined
+			-Every java class directly can access/implements the methods of Object class.
+			
+			-for example, clone(): to create clones/copy of the existing objects
+			
+			
+2. Arrays and it's use
+
+	- an array will store similar objects/values in a one variable.
+	- array index will start with 0(zero) and ends with length/size-1
+	- arrays are of two types
+		- single dimensional arrays
+		- multidimensional arrays
+
+		
+
+3. Strings and it's use
+
+
+
+4. Wrapper classes and Type casting(conversion)
+
+	AutoBoxing: primitive type to it's Object type
+	UnBoxing: Object type to it's primitive type
+	
+	Type casting: converting one data type to another data type.
+	
+	int value: 390 to String type.
+
+5. Inner Classes
+6. Exception Handling
